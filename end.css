@@ -1,0 +1,26 @@
+body {
+margin: 0;
+
+font-family: tahoma, sans-serif;
+font-size: 16px;
+}
+
+.page {
+ overflow: hidden;
+ display: flex;
+ flex-direction: column;
+ min-height: 70vh;
+
+
+}
+
+.footer {
+margin-top: auto;
+
+} 
+.content
+{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+} 
